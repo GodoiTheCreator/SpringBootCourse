@@ -1,4 +1,4 @@
-package com.springbootcourse;
+package com.springbootcourse.Customer;
 
 import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;
